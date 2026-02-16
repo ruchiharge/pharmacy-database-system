@@ -1,8 +1,8 @@
-# Pharmacy & Healthcare Management Database System (Oracle SQL)
+# Pharmacy & Healthcare Management Database System
 
 ## Overview
 
-This project implements a **Healthcare and Pharmacy Management Database System** using **Oracle SQL**.  
+This project implements a **Healthcare and Pharmacy Management Database System** using **SQL**.  
 
 The database models real-world relationships between:
 
